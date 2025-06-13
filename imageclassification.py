@@ -46,6 +46,8 @@ y_pred=ann.predict(x_test)
 y_pred_classes=[np.argmax(element) for element in y_pred]
 print('ANN Classification report is : ',classification_report(y_test,y_pred_classes))
 
+
+
 # building a Convolutional Neural Network for the given dataset
 cnn=models.Sequential([
     # cnn layers
