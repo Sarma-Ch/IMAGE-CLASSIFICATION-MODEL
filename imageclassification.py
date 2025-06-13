@@ -78,3 +78,8 @@ y_test[:5]
 plot_image(x_test,y_test,8)
 classes[y_classes[8]]
 print("CNN classification report is: ",classification_report(y_test,y_classes))
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/ad7e56ad-c375-4405-85b4-4f9b8a1fb1d6)
+
+
