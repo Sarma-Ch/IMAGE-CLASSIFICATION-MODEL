@@ -41,7 +41,7 @@ print('ANN Classification report is : ',classification_report(y_test,y_pred_clas
 
 OUTPUT :
 
-![Image](https://github.com/user-attachments/assets/c9dd843f-9a39-4f6b-a7d8-0fb73343e50d)
+![Image](https://github.com/user-attachments/assets/1f5eb236-79f3-439d-86d8-1e16d4536c70)
 
 # building a Convolutional Neural Network for the given dataset
 cnn=models.Sequential([
